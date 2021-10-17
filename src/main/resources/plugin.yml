@@ -1,0 +1,8 @@
+name: Xeon
+version: '${project.version}'
+main: cortex.xeon.Xeon
+api-version: 1.17
+load: STARTUP
+authors: [ CommanderCortex ]
+description: Aio Server Managment Plugin for Spigot Servers
+website: www.github.com/CommanderCortex
